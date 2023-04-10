@@ -1,0 +1,14 @@
+{
+  "name": "soical_media_backend",
+  "version": "1.0.0",
+  "description": "The back end for a social media app using node js , express, Mongodb and mongoose ",
+  "main": "server.js",
+  "repository": "https://github.com/Mubshergafar/soicalMediaMERN.git",
+  "author": "Mubsher Mohamedali",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
